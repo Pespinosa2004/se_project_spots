@@ -25,3 +25,9 @@ Good luck and have fun!
 This webpage is deployed to GitHub Pages
 
 - [Deployment Link](https://pespinosa2004.github.io/se_project_spots/index.html)
+
+## Video
+
+The describes how I make the project
+
+- [Video](https://drive.google.com/file/d/13VIGbA1QzLrKakRbcesTUqXYti4yiQI5/view?usp=drive_link);
